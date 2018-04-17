@@ -1,0 +1,57 @@
+.table_box thead {
+    color: #333
+}
+
+.table_box thead th.is-leaf {
+    background: #eef1f6
+}
+
+.table_box td,
+.table_box th {
+    padding: 5px 0;
+    width: 25%
+}
+
+.table_box th {
+    text-align: center
+}
+
+.table_box td {
+    font-size: 14px;
+    padding: 8px 0;
+}
+
+.el-pagination {
+    display: inline-block;
+    float: right;
+}
+
+.dels {
+    float: left;
+}
+
+.toobar {
+    margin: 20px 0
+}
+
+.radio-sex {
+    float: left;
+    margin-top: 13px;
+}
+
+.el-input-number,
+.date-item {
+    float: left;
+}
+
+.area-select-wrap {
+    float: left;
+}
+
+.area-select-wrap .area-select:first-child {
+    margin-left: 0
+}
+
+.area-select {
+    line-height: 18px;
+}
